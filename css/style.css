@@ -1,0 +1,19 @@
+@import "./header.css";
+@import "./hero.css";
+
+a{
+    text-decoration: none;
+
+}
+
+ul{
+    list-style-type: none;
+}
+
+.container{
+    width: 1300px;
+    margin: 0 auto;
+}
+
+
+

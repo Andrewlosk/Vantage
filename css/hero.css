@@ -1,0 +1,111 @@
+.hero{
+    position: relative;
+    background: #141414;
+}
+
+.hero_card{
+    position: absolute;
+    top: 68px;
+    left: 960px;
+    background: #FFF;
+    width: 449px;
+    padding: 67px;
+    z-index: 20;
+}
+
+.hero_card_top_p{
+   color: #99823D;
+    font-family: Open Sans;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16.575px; 
+    letter-spacing: 2.763px;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+h1{
+    color: #141414;
+    font-family: Teko;
+    font-size: 67px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 67.031px; 
+    text-transform: capitalize;
+    margin: 0;
+    margin-bottom: 32px;
+}
+
+.hero_card_bottom_p{
+    color: #141414;
+    font-family: Open Sans;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.5px;
+    margin: 0; 
+}
+
+.hero_card_btn{
+    color: #FFF;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17.85px; /* 148.75% */
+    letter-spacing: 2.975px;
+    text-transform: uppercase;
+    padding: 0;
+    padding: 24px 69px;
+    background-color: #99823D;
+    border: none;    
+}
+
+.hero_card_btn2{
+    background-color:#141414;
+    padding: 24px 59px;
+    
+
+}
+
+.hero_card_btn_list{
+    display: flex;
+    padding: 0;
+    gap: 17px;
+}
+
+.hero_empty_div{
+    position: absolute;
+    bottom: 0;
+    left: 1140px;
+    width: 489px;
+    height: 329px;
+    background: #99823D;
+
+
+}
+
+.hero_contact_list{
+    background:#FFF;
+    display: flex;
+    gap: 37px;
+    padding: 0;
+    margin: 0;
+
+
+}
+
+.hero_contact_item{
+    color: #000;
+    font-family: Open Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 68px; /* 566.667% */
+    letter-spacing: 2.975px;
+    text-transform: uppercase;
+    margin: 0;
+    
+}

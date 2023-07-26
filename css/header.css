@@ -1,0 +1,82 @@
+.header_menu_logo_link{
+    /* display: flex; */
+    position: relative;
+}
+
+.header_left{
+    display: flex;
+
+}
+
+.navigate{
+    display: flex;
+    gap:37px;
+}
+
+.header_link{
+    display: flex;
+    gap: 4px;
+
+    color: rgba(255, 255, 255, 0.75);
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15.3px; /* 170% */
+}
+
+.logo_vantage{
+    position: absolute;
+    z-index: 20;
+}
+
+.header_content{
+    display: flex;
+    align-items: baseline;
+    justify-content: flex-end;
+    gap: 248px;
+    
+}
+
+.link_item1{
+    
+
+    font-family: Open Sans;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15.3px;
+    color: rgba(255, 255, 255, 0.75);
+
+}
+
+.link_item2{
+    color: #FFF;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15.3px;
+}
+
+header{
+    background-color: #141414;
+}
+
+
+.menu_item_link{
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px; 
+    letter-spacing: 2.763px;
+    text-transform: uppercase;    
+}
+
+.header_link{
+    gap: 4px;
+}
