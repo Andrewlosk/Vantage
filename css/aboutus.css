@@ -1,0 +1,71 @@
+.about_us{
+    width: 684px;
+}
+
+.about_us_sec{
+    padding-top: 135px ;
+}
+
+.about_us_top_p{
+    color: #99823D;
+    font-family: Open Sans;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16.575px;
+    letter-spacing: 2.763px;
+    text-transform: uppercase;
+    margin: 0;    
+}
+
+.about_us_title{
+    color: #141414;
+    font-family: Teko;
+    font-size: 53px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 52.955px;
+    text-transform: capitalize;
+    margin: 0;
+}
+
+.about_us_bottom_p{
+    color: #141414;
+    font-family: Open Sans;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.5px; 
+}
+
+.news_top_p{
+    color: #99823D;
+    font-family: Open Sans;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16.575px;
+    letter-spacing: 2.763px;
+    text-transform: uppercase;    
+}
+
+.news_top_div{
+    display: flex;
+    gap: 17px;
+}
+
+.news_title{
+    color: #141414;
+    font-family: Teko;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26.112px;
+    text-transform: capitalize;
+    margin: 0;    
+}
+
+.news_card{
+    width: 323px;
+    padding: 36px 34px 42px 67px;
+}
