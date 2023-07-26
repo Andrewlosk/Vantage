@@ -1,0 +1,53 @@
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header_menu_logo_link{
+    /* display: flex; */
+    position: relative;
+}
+
+.header_left{
+    display: flex;
+
+}
+
+.navigate{
+    display: flex;
+    gap:37px;
+}
+
+.header_link{
+    display: flex;
+    gap: 4px;
+
+    color: rgba(255, 255, 255, 0.75);
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15.3px; /* 170% */
+}
+
+.logo_vantage{
+    position: absolute;
+}
+
+.header_content{
+    display: flex;
+    align-items: baseline;
+    justify-content: flex-end;
+    gap: 248px;
+    
+}
+
