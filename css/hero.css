@@ -1,11 +1,12 @@
 .hero{
     position: relative;
     background: #141414;
+    height: 655px;
 }
 
 .hero_card{
     position: absolute;
-    top: 68px;
+    top: 60px;
     left: 960px;
     background: #FFF;
     width: 449px;
@@ -79,8 +80,9 @@ h1{
 .hero_empty_div{
     position: absolute;
     bottom: 0;
-    left: 1140px;
+    left: 1130px;
     width: 489px;
+    z-index: 10;
     height: 329px;
     background: #99823D;
 
@@ -88,11 +90,15 @@ h1{
 }
 
 .hero_contact_list{
+    position: absolute;
+    bottom: 0;
+    width: 1140px;
     background:#FFF;
     display: flex;
     gap: 37px;
     padding: 0;
     margin: 0;
+
 
 
 }

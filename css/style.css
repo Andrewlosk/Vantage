@@ -2,6 +2,7 @@
 @import "./hero.css";
 @import "./aboutus.css";
 @import "./cards_room.css";
+@import "./services.css";
 
 a{
     text-decoration: none;
