@@ -1,0 +1,62 @@
+.cards_room_item{
+    position: relative;
+}
+
+
+.cards_room_top_p{
+    position: absolute;
+    top: -11px;
+    left: 0;
+    z-index: 30;
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16.32px; /* 148.364% */
+    letter-spacing: 2.72px;
+    text-transform: uppercase;
+    background: #141414;
+    width: 32px;
+    padding: 9px 35px;  
+}
+
+.cards_room_desk_p{
+    position: absolute;
+    bottom: 30px;
+    right: 0;
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px; /* 309.091% */
+    letter-spacing: 2.763px;
+    text-transform: uppercase;
+    background: #99823D;
+    width: 206px;
+    height: 102px;
+    margin: 0;
+    text-align: center;
+}
+
+.cards_room_bottom_p{
+    color: #FFF;
+    text-align: center;
+    font-family: Teko;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26.112px; /* 100.431% */
+    text-transform: capitalize;
+    background: #000;
+    width: 378px;
+    height: 53px;
+    padding-top: 15px;
+}
+
+
+.cards_room_list{
+    display: flex;
+    gap: 34px;
+}
