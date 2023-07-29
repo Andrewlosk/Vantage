@@ -6,8 +6,8 @@
 
 .hero_card{
     position: absolute;
-    top: 60px;
-    left: 960px;
+    top: 68px;
+    right: 68px;
     background: #FFF;
     width: 449px;
     padding: 67px;
@@ -79,8 +79,8 @@ h1{
 
 .hero_empty_div{
     position: absolute;
-    bottom: 0;
-    left: 1130px;
+    bottom: 8px;
+    right: 0;
     width: 489px;
     z-index: 10;
     height: 329px;
@@ -90,14 +90,15 @@ h1{
 }
 
 .hero_contact_list{
-    position: absolute;
-    bottom: 0;
+    /* position: absolute;
+    bottom: 0; */
     width: 1140px;
     background:#FFF;
     display: flex;
     gap: 37px;
     padding: 0;
     margin: 0;
+    padding-left: 10px;
 
 
 
