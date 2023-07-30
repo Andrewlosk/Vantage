@@ -62,6 +62,7 @@
 .cards_room_list{
     display: flex;
     gap: 34px;
+    padding: 0;
 }
 
 .cards_room{

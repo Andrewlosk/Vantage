@@ -1,0 +1,5 @@
+.sponsors_list{
+    display: flex;
+    gap: 62px;
+    align-items:center;
+}

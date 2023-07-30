@@ -30,3 +30,80 @@
     margin-bottom: 82px;
 
 }
+
+
+.services_date{
+    color: #99823D;
+    font-family: Open Sans;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16.575px; /* 150.682% */
+    letter-spacing: 2.763px;
+    text-transform: uppercase;
+    margin: 0;
+    margin-bottom: 11px;    
+}
+
+.services_title_item{
+    color: #141414;
+    font-family: Teko;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26.112px; /* 100.431% */
+    text-transform: capitalize;
+    margin: 0;    
+}
+
+.services_desk{
+    color: #141414;
+    font-family: Open Sans;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.5px; /* 150% */ 
+    margin: 0;
+    margin-top: 18px;   
+}
+
+.services_top_group{
+    display: flex;
+    gap: 17px;
+}
+
+.services_cards_item{
+    width: 292px;
+    padding: 34px 65px 31px 34px;
+}
+
+.services_cards_list{
+    padding: 0;
+    padding-left: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    margin-bottom: 90px;
+}
+
+.services_btn{
+    padding: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17.85px; /* 148.75% */
+    letter-spacing: 2.975px;
+    text-transform: uppercase;
+    border: none;
+    background: #99823D;
+    padding: 25px 120px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.services{
+    padding-bottom: 107px;
+}

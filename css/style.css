@@ -3,6 +3,7 @@
 @import "./aboutus.css";
 @import "./cards_room.css";
 @import "./services.css";
+@import "./sponsors.css";
 
 a{
     text-decoration: none;
