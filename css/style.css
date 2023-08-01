@@ -4,6 +4,7 @@
 @import "./cards_room.css";
 @import "./services.css";
 @import "./sponsors.css";
+@import "./footer.css";
 
 a{
     text-decoration: none;
@@ -20,5 +21,9 @@ ul{
     margin: 0 auto;
 }
 
-
+.container_footer{
+    position: relative;
+    width: 1168px;
+    margin: 0 auto;
+}
 

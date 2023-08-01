@@ -1,5 +1,14 @@
 .sponsors_list{
     display: flex;
-    gap: 62px;
+    gap: 52px;
     align-items:center;
+    justify-content: center;
+    padding: 0;
+    padding-top: 68px ;
+    padding-bottom: 68px ;
+    margin: 0;
+}
+
+.sponsors{
+    margin-bottom: 65px;
 }
