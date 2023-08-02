@@ -27,6 +27,7 @@
     display: inline-block;
     text-align: center;
     width: 100%;
+    margin: 0 auto;
     margin-bottom: 82px;
 
 }
@@ -79,7 +80,7 @@
 
 .services_cards_list{
     padding: 0;
-    padding-left: 70px;
+    justify-content: center;
     display: flex;
     flex-wrap: wrap;
     margin: 0 auto;

@@ -81,3 +81,21 @@
 
 
 }
+
+.picture_frame{
+    display: flex;
+    position: absolute;
+    top: 0;
+    gap: 102px;
+
+}
+
+.line_room{
+    background:#FFF;
+    width: 1px;
+    height: 275px;
+}
+
+.cards_room_item :nth-child(2)>.cards_room_desk_p{
+    z-index: 100;
+}
